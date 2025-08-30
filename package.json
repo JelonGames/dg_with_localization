@@ -1,0 +1,24 @@
+{
+  "name": "dg_with_localization",
+  "version": "1.0.0",
+  "displayName": "DialogGraph with Localization",
+  "description": "A tool for creating dialogue graphs using the Unity Localization tool",
+  "unity": "6000.0",
+  "documentationUrl": "https://example.com/",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "DialogGraph",
+    "Dialog",
+    "Dialog system",
+    "Dialog tool",
+    "Localization"
+  ],
+  "author": {
+    "name": "JelonGames",
+    "email": "jelonyt@gmail.com",
+    "url": "https://github.com/JelonGames"
+  },
+  "dependencies": {
+    "com.unity.localization": "1.5.4"
+  }
+}

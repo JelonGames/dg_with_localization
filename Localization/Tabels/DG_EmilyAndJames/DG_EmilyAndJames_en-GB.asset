@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DG_EmilyAndJames_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: a8020dbbf629ddcefbd444bc96d161d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 37661995008
+    m_Localized: 'Emili: Hi Paul! How are you feeling today?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662483267584
+    m_Localized: 'James: Quite well, thanks! And you?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726018584576
+    m_Localized: 'James: A bit rough, to be honest.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806005727232
+    m_Localized: What's new with you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2078614515712
+    m_Localized: How are you coping with work?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2102786289664
+    m_Localized: Fancy a coffee?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180762595328
+    m_Localized: 'James: I''m alright, mostly focused on the project, so I''m quite
+      busy.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2227751383040
+    m_Localized: 'James: A bit stressful, but I''m managing.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2238342000640
+    m_Localized: 'James: Gladly, always a good break for coffee!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627314466816
+    m_Localized: 'Emili: I heard you''ve had a lot of work lately. How many hours
+      a day do you spend at the computer?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675444105216
+    m_Localized: 'James: Too much, almost 10 hours a day.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5711934550016
+    m_Localized: 'James: Moderate, about 7 hours.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5716112076800
+    m_Localized: 'James: Not too much, about 4 hours.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572304937512960
+    m_Localized: 'James: What do you do after work?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572495048536064
+    m_Localized: Watching a film
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572608328298496
+    m_Localized: Checking out new books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572620428865536
+    m_Localized: Going for a run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572790327537664
+    m_Localized: 'James: Films are a good way to relax.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572979775860736
+    m_Localized: 'James: Films help me calm down a bit after a stressful day.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573003301711872
+    m_Localized: 'James: Books are my passion, same here.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573042656866304
+    m_Localized: 'James: Even when I''m busy, I try to find time for books.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573072256069632
+    m_Localized: 'James: Running? Great, I should start too.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573103935647744
+    m_Localized: 'James: I''d like to go running, but I''m too tired right now.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

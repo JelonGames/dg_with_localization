@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DG_EmilyAndJames_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: a8020dbbf629ddcefbd444bc96d161d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 37661995008
+    m_Localized: "Emili: Cze\u015B\u0107 Pawle! Jak si\u0119 dzisiaj czujesz?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662483267584
+    m_Localized: "James: Ca\u0142kiem dobrze, dzi\u0119ki! A Ty?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726018584576
+    m_Localized: "James: Troch\u0119 kiepsko, szczerze m\xF3wi\u0105c."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806005727232
+    m_Localized: Co u Ciebie nowego?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2078614515712
+    m_Localized: "Jak radzisz sobie z prac\u0105?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2102786289664
+    m_Localized: "Masz ochot\u0119 na kaw\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180762595328
+    m_Localized: "James: W porz\u0105dku, g\u0142\xF3wnie skupiam si\u0119 na projekcie,
+      wi\u0119c jestem do\u015B\u0107 zaj\u0119ty."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2227751383040
+    m_Localized: "James: Troch\u0119 stresuj\u0105co, ale daj\u0119 rad\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2238342000640
+    m_Localized: "James: Ch\u0119tnie, zawsze dobra przerwa na kaw\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5627314466816
+    m_Localized: "Emili: S\u0142ysza\u0142am, \u017Ce mia\u0142e\u015B ostatnio sporo
+      pracy. Ile godzin dziennie sp\u0119dzasz przy komputerze?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5675444105216
+    m_Localized: "James: Za du\u017Co, prawie 10 godzin dziennie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5711934550016
+    m_Localized: "James: Umiarkowanie, oko\u0142o 7 godzin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5716112076800
+    m_Localized: "James: Niezbyt du\u017Co, oko\u0142o 4 godziny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572304937512960
+    m_Localized: 'James: Co robisz po pracy?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572495048536064
+    m_Localized: "Ogl\u0105dam film"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572608328298496
+    m_Localized: "Sprawdzam nowe ksi\u0105\u017Cki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572620428865536
+    m_Localized: "Id\u0119 pobiega\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572790327537664
+    m_Localized: "James: Filmy to dobry spos\xF3b na relaks"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3572979775860736
+    m_Localized: "James: Filmy pomagaj\u0105 mi troch\u0119 si\u0119 wyciszy\u0107
+      po stresuj\u0105cym dniu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573003301711872
+    m_Localized: "James: Ksi\u0105\u017Cki to moja pasja, te\u017C tak mam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573042656866304
+    m_Localized: "James: Nawet gdy jestem zaj\u0119ty, staram si\u0119 znale\u017A\u0107
+      czas na ksi\u0105\u017Cki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573072256069632
+    m_Localized: "James: Bieganie? Super, ja te\u017C powinienem zacz\u0105\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3573103935647744
+    m_Localized: "James: Chcia\u0142bym pobiega\u0107, ale jestem teraz zbyt zm\u0119czony"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

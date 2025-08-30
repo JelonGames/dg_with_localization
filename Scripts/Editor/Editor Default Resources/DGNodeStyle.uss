@@ -1,0 +1,79 @@
+/* CONTAINERS */
+.node{
+  max-width: 400px;
+}
+
+.dg-node__extension-container{
+  background-color: #1D1D1E;
+  padding: 8px;
+}
+
+.dg-node__foldout-data-container{
+  background-color: #212325;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+.dg-node__listview > .unity-scroll-view{
+  background-color: #212325;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.dg-node__choice-container{
+  background-color: #212325;
+  border-radius: 4px;
+  padding: 4px;
+  margin: 4px;
+  width: 250px;
+}
+
+/* FIELDS */
+.dg-node__field-base > .unity-base-field__input{
+  background-color: #1D1D1E;
+  border-radius: 4px;
+  max-width: 240px;
+  min-width: 160px;
+  padding: 4px;
+  font-size: 15px;
+}
+
+.dg-node__field-base > .unity-popup-field__input{
+  background-color: #515151;
+}
+
+.dg-node__field-base > .unity-label{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  max-width: 120px;
+  min-width: 50px;
+}
+
+.dg-node__textfield-readonly .unity-text-element{
+  cursor: arrow;
+  font-size: 15px;
+}
+
+.dg-node__textfield-readonly > .unity-text-field__input{
+  background-color: #515151;
+}
+
+.dg-node__toggle > .unity-label{
+  padding-top: 7px;
+  padding-bottom: 7px;
+  max-width: 120px;
+  min-width: 50px;
+}
+
+.dg-node__toggle > .unity-toggle__input{
+  height: 28px;
+  width: 28px;
+  max-width: 28px;
+  min-width: 28px;
+  padding: 1px;
+}
+
+.dg-node__toggle > .unity-toggle__input > .unity-toggle__checkmark{
+  height: 27px;
+  width: 27px;
+}

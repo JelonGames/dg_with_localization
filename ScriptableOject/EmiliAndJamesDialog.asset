@@ -1,0 +1,809 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b2e5faac1e58e4880c418c41f86300, type: 3}
+  m_Name: EmiliAndJamesDialog
+  m_EditorClassIdentifier: 
+  m_nodes:
+  - rid: 1897495693609926856
+  - rid: 1897495693609926857
+  - rid: 1897495693609926858
+  - rid: 1897495693609926859
+  - rid: 1897495693609926860
+  - rid: 1897495693609926862
+  - rid: 1897495693609926863
+  - rid: 1897495693609926866
+  - rid: 1897495693609926867
+  - rid: 1897495693609926868
+  - rid: 1897495693609926869
+  - rid: 1897495693609926870
+  - rid: 1897495693609926871
+  - rid: 1897495693609926872
+  - rid: 1897495693609926873
+  - rid: 1897495693609926874
+  - rid: 1897495693609926875
+  - rid: 1897495693609926876
+  - rid: 1897495693609926877
+  - rid: 1897495917080084672
+  - rid: 1897495917080084673
+  - rid: 1897495917080084674
+  - rid: 1897495917080084675
+  - rid: 1897495917080084676
+  - rid: 1897495917080084677
+  - rid: 1897495917080084678
+  - rid: 1897495917080084679
+  - rid: 1897495917080084680
+  - rid: 1897495917080084681
+  - rid: 1897495917080084682
+  m_connections:
+  - inputPort:
+      nodeID: 6f7f23a3-cfe4-42ff-ba70-db528f4c806c
+      portIndex: 0
+    outputPort:
+      nodeID: ea550e75-4ea8-429a-886e-038f205a0a6a
+      portIndex: 0
+  - inputPort:
+      nodeID: af00c41f-b513-4cd5-92d1-abfccb75fa5d
+      portIndex: 0
+    outputPort:
+      nodeID: 6f7f23a3-cfe4-42ff-ba70-db528f4c806c
+      portIndex: 0
+  - inputPort:
+      nodeID: 8ce9e80a-9bd4-4483-992c-d0658a5f3d6f
+      portIndex: 0
+    outputPort:
+      nodeID: af00c41f-b513-4cd5-92d1-abfccb75fa5d
+      portIndex: 0
+  - inputPort:
+      nodeID: 3444b204-f8ff-42c5-a325-92a210ecbd10
+      portIndex: 0
+    outputPort:
+      nodeID: af00c41f-b513-4cd5-92d1-abfccb75fa5d
+      portIndex: 1
+  - inputPort:
+      nodeID: 7347eb1b-e6f3-4824-9eb9-44ccfc3003fd
+      portIndex: 0
+    outputPort:
+      nodeID: 3444b204-f8ff-42c5-a325-92a210ecbd10
+      portIndex: 0
+  - inputPort:
+      nodeID: 5852d7fd-6c8c-4b2d-812e-7d46a3280bad
+      portIndex: 0
+    outputPort:
+      nodeID: 7347eb1b-e6f3-4824-9eb9-44ccfc3003fd
+      portIndex: 0
+  - inputPort:
+      nodeID: 5852d7fd-6c8c-4b2d-812e-7d46a3280bad
+      portIndex: 0
+    outputPort:
+      nodeID: 8ce9e80a-9bd4-4483-992c-d0658a5f3d6f
+      portIndex: 0
+  - inputPort:
+      nodeID: 2cdb7d0d-2b6d-424f-9593-c3125d9daba0
+      portIndex: 0
+    outputPort:
+      nodeID: 0debf311-119c-4a98-9fad-4d45b1129701
+      portIndex: 0
+  - inputPort:
+      nodeID: c4aba2d3-25f3-4d94-b46c-4f5aca764ee5
+      portIndex: 0
+    outputPort:
+      nodeID: f3c35fc9-a706-4317-8ffd-d86431f41036
+      portIndex: 0
+  - inputPort:
+      nodeID: f3c35fc9-a706-4317-8ffd-d86431f41036
+      portIndex: 0
+    outputPort:
+      nodeID: 5852d7fd-6c8c-4b2d-812e-7d46a3280bad
+      portIndex: 0
+  - inputPort:
+      nodeID: d12feb10-10fd-4400-9daa-b7ba39e146b9
+      portIndex: 0
+    outputPort:
+      nodeID: f75c2673-81a2-43b2-977c-8899ad97f8d8
+      portIndex: 0
+  - inputPort:
+      nodeID: 279d9aa7-678b-41a2-aec9-5fb90325a287
+      portIndex: 0
+    outputPort:
+      nodeID: 9e964c2d-1151-446d-ae20-1f1f9dbd5c89
+      portIndex: 0
+  - inputPort:
+      nodeID: 9e964c2d-1151-446d-ae20-1f1f9dbd5c89
+      portIndex: 0
+    outputPort:
+      nodeID: 5852d7fd-6c8c-4b2d-812e-7d46a3280bad
+      portIndex: 1
+  - inputPort:
+      nodeID: f75c2673-81a2-43b2-977c-8899ad97f8d8
+      portIndex: 0
+    outputPort:
+      nodeID: 5852d7fd-6c8c-4b2d-812e-7d46a3280bad
+      portIndex: 2
+  - inputPort:
+      nodeID: ea61eec5-6fee-475a-bc4b-0be4e3265a9c
+      portIndex: 0
+    outputPort:
+      nodeID: c4aba2d3-25f3-4d94-b46c-4f5aca764ee5
+      portIndex: 0
+  - inputPort:
+      nodeID: ea61eec5-6fee-475a-bc4b-0be4e3265a9c
+      portIndex: 0
+    outputPort:
+      nodeID: 279d9aa7-678b-41a2-aec9-5fb90325a287
+      portIndex: 0
+  - inputPort:
+      nodeID: ea61eec5-6fee-475a-bc4b-0be4e3265a9c
+      portIndex: 0
+    outputPort:
+      nodeID: d12feb10-10fd-4400-9daa-b7ba39e146b9
+      portIndex: 0
+  - inputPort:
+      nodeID: 9c6fa193-0395-408d-bc26-243e06857540
+      portIndex: 0
+    outputPort:
+      nodeID: ea61eec5-6fee-475a-bc4b-0be4e3265a9c
+      portIndex: 0
+  - inputPort:
+      nodeID: fc531978-d710-41cd-837c-886a0023ff82
+      portIndex: 0
+    outputPort:
+      nodeID: 9c6fa193-0395-408d-bc26-243e06857540
+      portIndex: 0
+  - inputPort:
+      nodeID: 4f00f96d-65e9-4fd2-bb26-70ea6b734980
+      portIndex: 0
+    outputPort:
+      nodeID: 9c6fa193-0395-408d-bc26-243e06857540
+      portIndex: 1
+  - inputPort:
+      nodeID: c577f6db-2533-436d-aea7-61233fa227e5
+      portIndex: 0
+    outputPort:
+      nodeID: 4f00f96d-65e9-4fd2-bb26-70ea6b734980
+      portIndex: 0
+  - inputPort:
+      nodeID: 442fb3c8-7ada-422c-a50f-557317b6e919
+      portIndex: 0
+    outputPort:
+      nodeID: 4f00f96d-65e9-4fd2-bb26-70ea6b734980
+      portIndex: 1
+  - inputPort:
+      nodeID: 6707c08c-bc76-41f2-a0dc-2c6452fe2961
+      portIndex: 0
+    outputPort:
+      nodeID: fc531978-d710-41cd-837c-886a0023ff82
+      portIndex: 0
+  - inputPort:
+      nodeID: 6707c08c-bc76-41f2-a0dc-2c6452fe2961
+      portIndex: 0
+    outputPort:
+      nodeID: c577f6db-2533-436d-aea7-61233fa227e5
+      portIndex: 0
+  - inputPort:
+      nodeID: 6707c08c-bc76-41f2-a0dc-2c6452fe2961
+      portIndex: 0
+    outputPort:
+      nodeID: 442fb3c8-7ada-422c-a50f-557317b6e919
+      portIndex: 0
+  - inputPort:
+      nodeID: 4981f338-fb35-46c2-8335-820509507c93
+      portIndex: 0
+    outputPort:
+      nodeID: 6707c08c-bc76-41f2-a0dc-2c6452fe2961
+      portIndex: 0
+  - inputPort:
+      nodeID: c932c37f-05da-486e-9ba8-f3c2fe90a25a
+      portIndex: 0
+    outputPort:
+      nodeID: 4981f338-fb35-46c2-8335-820509507c93
+      portIndex: 0
+  - inputPort:
+      nodeID: 45f3781b-bf9b-4b9a-8ba1-d618e39d1b07
+      portIndex: 0
+    outputPort:
+      nodeID: 4981f338-fb35-46c2-8335-820509507c93
+      portIndex: 1
+  - inputPort:
+      nodeID: 764f1453-c3ea-4e47-814f-bbaa849cdeb8
+      portIndex: 0
+    outputPort:
+      nodeID: 4981f338-fb35-46c2-8335-820509507c93
+      portIndex: 2
+  - inputPort:
+      nodeID: 8f265b33-e119-49e4-9b88-5a4f1148f880
+      portIndex: 0
+    outputPort:
+      nodeID: c932c37f-05da-486e-9ba8-f3c2fe90a25a
+      portIndex: 0
+  - inputPort:
+      nodeID: acfb8bb4-8bb2-40fa-8abb-043cc01837e4
+      portIndex: 0
+    outputPort:
+      nodeID: c932c37f-05da-486e-9ba8-f3c2fe90a25a
+      portIndex: 1
+  - inputPort:
+      nodeID: 015f965c-f60a-47aa-85d8-95b90ae7e1de
+      portIndex: 0
+    outputPort:
+      nodeID: 45f3781b-bf9b-4b9a-8ba1-d618e39d1b07
+      portIndex: 0
+  - inputPort:
+      nodeID: 11dd2efd-b465-4b26-971a-d3c23a9a96c3
+      portIndex: 0
+    outputPort:
+      nodeID: 45f3781b-bf9b-4b9a-8ba1-d618e39d1b07
+      portIndex: 1
+  - inputPort:
+      nodeID: d05ba321-39e2-4bc0-a1c6-d3ece24253df
+      portIndex: 0
+    outputPort:
+      nodeID: 764f1453-c3ea-4e47-814f-bbaa849cdeb8
+      portIndex: 0
+  - inputPort:
+      nodeID: 14263e10-0273-4558-96ec-2f748dd8fdc7
+      portIndex: 0
+    outputPort:
+      nodeID: 764f1453-c3ea-4e47-814f-bbaa849cdeb8
+      portIndex: 1
+  m_properties:
+  - m_id: 002474ec-bb99-4b4f-b69c-e97f74e7c049
+    m_typeName: Boolean
+    m_argName: isHappy
+    m_value:
+      stringValue: 
+      intValue: 0
+      floatValue: 0
+      boolValue: 0
+      objectValue: {fileID: 0}
+      type: 4
+  - m_id: 550903a4-147b-43f0-9eb3-5837266d5ae3
+    m_typeName: Boolean
+    m_argName: isBusy
+    m_value:
+      stringValue: 
+      intValue: 0
+      floatValue: 0
+      boolValue: 0
+      objectValue: {fileID: 0}
+      type: 0
+  - m_id: b35f3bb8-75a2-42f1-ab85-96c8228a8061
+    m_typeName: Single
+    m_argName: stressLevel
+    m_value:
+      stringValue: 
+      intValue: 0
+      floatValue: 0
+      boolValue: 0
+      objectValue: {fileID: 0}
+      type: 0
+  - m_id: 5243ef9a-357c-4bb9-8ab9-a410f162e0d6
+    m_typeName: Boolean
+    m_argName: wantsCoffee
+    m_value:
+      stringValue: 
+      intValue: 0
+      floatValue: 0
+      boolValue: 0
+      objectValue: {fileID: 0}
+      type: 0
+  - m_id: 7a744389-8fdd-4731-8f2f-df632f798a51
+    m_typeName: Single
+    m_argName: workHours
+    m_value:
+      stringValue: 
+      intValue: 0
+      floatValue: 7
+      boolValue: 0
+      objectValue: {fileID: 0}
+      type: 3
+  m_localizationTable: DG_EmilyAndJames
+  references:
+    version: 2
+    RefIds:
+    - rid: 1897495693609926856
+      type: {class: DGStartNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: ea550e75-4ea8-429a-886e-038f205a0a6a
+        m_position:
+          serializedVersion: 2
+          x: 370
+          y: 219
+          width: 105
+          height: 77
+        m_nodeType: 0
+    - rid: 1897495693609926857
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 6f7f23a3-cfe4-42ff-ba70-db528f4c806c
+        m_position:
+          serializedVersion: 2
+          x: 523
+          y: 219
+          width: 221
+          height: 247
+        m_nodeType: 1
+        localizationKey: Emili_start_dialog
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926858
+      type: {class: DGConditionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: af00c41f-b513-4cd5-92d1-abfccb75fa5d
+        m_position:
+          serializedVersion: 2
+          x: 919
+          y: 219
+          width: 285
+          height: 210
+        m_nodeType: 3
+        m_conditions:
+        - m_variableID: 002474ec-bb99-4b4f-b69c-e97f74e7c049
+          m_variableName: isHappy
+          m_variableType: Boolean
+          m_actionName: Equals
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0
+            boolValue: 1
+            objectValue: {fileID: 0}
+            type: 4
+        logicalOperator: and
+    - rid: 1897495693609926859
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 8ce9e80a-9bd4-4483-992c-d0658a5f3d6f
+        m_position:
+          serializedVersion: 2
+          x: 1294
+          y: 0
+          width: 221
+          height: 247
+        m_nodeType: 1
+        localizationKey: James_start_positive
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926860
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 3444b204-f8ff-42c5-a325-92a210ecbd10
+        m_position:
+          serializedVersion: 2
+          x: 1294
+          y: 323
+          width: 221
+          height: 247
+        m_nodeType: 1
+        localizationKey: James_start_negative
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926862
+      type: {class: DGActionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 7347eb1b-e6f3-4824-9eb9-44ccfc3003fd
+        m_position:
+          serializedVersion: 2
+          x: 1732
+          y: 323
+          width: 136
+          height: 146
+        m_nodeType: 4
+        m_actions:
+        - m_variableID: b35f3bb8-75a2-42f1-ab85-96c8228a8061
+          m_variableName: stressLevel
+          m_variableType: Single
+          m_methodName: Append
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0.2
+            boolValue: 0
+            objectValue: {fileID: 0}
+            type: 3
+    - rid: 1897495693609926863
+      type: {class: DGChoiceNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 5852d7fd-6c8c-4b2d-812e-7d46a3280bad
+        m_position:
+          serializedVersion: 2
+          x: 2079
+          y: 0
+          width: 373
+          height: 371
+        m_nodeType: 2
+        m_choices:
+        - Emili_choices_01_01
+        - Emili_choices_01_02
+        - Emili_choices_01_03
+    - rid: 1897495693609926866
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: f3c35fc9-a706-4317-8ffd-d86431f41036
+        m_position:
+          serializedVersion: 2
+          x: 2723
+          y: 0
+          width: 301
+          height: 286
+        m_nodeType: 1
+        localizationKey: James_answer_01_01
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926867
+      type: {class: DGActionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: c4aba2d3-25f3-4d94-b46c-4f5aca764ee5
+        m_position:
+          serializedVersion: 2
+          x: 3057
+          y: 0
+          width: 280
+          height: 217
+        m_nodeType: 4
+        m_actions:
+        - m_variableID: 550903a4-147b-43f0-9eb3-5837266d5ae3
+          m_variableName: isBusy
+          m_variableType: Boolean
+          m_methodName: 
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0
+            boolValue: 1
+            objectValue: {fileID: 0}
+            type: 4
+    - rid: 1897495693609926868
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 9e964c2d-1151-446d-ae20-1f1f9dbd5c89
+        m_position:
+          serializedVersion: 2
+          x: 2723
+          y: 299
+          width: 301
+          height: 268
+        m_nodeType: 1
+        localizationKey: James_answer_01_02
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926869
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: f75c2673-81a2-43b2-977c-8899ad97f8d8
+        m_position:
+          serializedVersion: 2
+          x: 2723
+          y: 607
+          width: 299
+          height: 268
+        m_nodeType: 1
+        localizationKey: James_answer_01_03
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926870
+      type: {class: DGActionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 279d9aa7-678b-41a2-aec9-5fb90325a287
+        m_position:
+          serializedVersion: 2
+          x: 3057
+          y: 299
+          width: 280
+          height: 223
+        m_nodeType: 4
+        m_actions:
+        - m_variableID: b35f3bb8-75a2-42f1-ab85-96c8228a8061
+          m_variableName: stressLevel
+          m_variableType: Single
+          m_methodName: Append
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0.3
+            boolValue: 0
+            objectValue: {fileID: 0}
+            type: 3
+    - rid: 1897495693609926871
+      type: {class: DGActionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: d12feb10-10fd-4400-9daa-b7ba39e146b9
+        m_position:
+          serializedVersion: 2
+          x: 3057
+          y: 607
+          width: 280
+          height: 217
+        m_nodeType: 4
+        m_actions:
+        - m_variableID: 5243ef9a-357c-4bb9-8ab9-a410f162e0d6
+          m_variableName: wantsCoffee
+          m_variableType: Boolean
+          m_methodName: 
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0
+            boolValue: 1
+            objectValue: {fileID: 0}
+            type: 4
+    - rid: 1897495693609926872
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: ea61eec5-6fee-475a-bc4b-0be4e3265a9c
+        m_position:
+          serializedVersion: 2
+          x: 3449
+          y: 299
+          width: 299
+          height: 304
+        m_nodeType: 1
+        localizationKey: Emily_dialog_01_01
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926873
+      type: {class: DGConditionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 9c6fa193-0395-408d-bc26-243e06857540
+        m_position:
+          serializedVersion: 2
+          x: 3857
+          y: 299
+          width: 285
+          height: 327
+        m_nodeType: 3
+        m_conditions:
+        - m_variableID: 7a744389-8fdd-4731-8f2f-df632f798a51
+          m_variableName: workHours
+          m_variableType: Single
+          m_actionName: Greater
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 8
+            boolValue: 0
+            objectValue: {fileID: 0}
+            type: 3
+        logicalOperator: and
+    - rid: 1897495693609926874
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: fc531978-d710-41cd-837c-886a0023ff82
+        m_position:
+          serializedVersion: 2
+          x: 4252
+          y: -201
+          width: 266
+          height: 250
+        m_nodeType: 1
+        localizationKey: James_dialog_01_01
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926875
+      type: {class: DGConditionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 4f00f96d-65e9-4fd2-bb26-70ea6b734980
+        m_position:
+          serializedVersion: 2
+          x: 4209
+          y: 299
+          width: 285
+          height: 327
+        m_nodeType: 3
+        m_conditions:
+        - m_variableID: 7a744389-8fdd-4731-8f2f-df632f798a51
+          m_variableName: workHours
+          m_variableType: Single
+          m_actionName: GreaterOrEqual
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 5
+            boolValue: 0
+            objectValue: {fileID: 0}
+            type: 3
+        logicalOperator: and
+    - rid: 1897495693609926876
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: c577f6db-2533-436d-aea7-61233fa227e5
+        m_position:
+          serializedVersion: 2
+          x: 4518
+          y: 49
+          width: 266
+          height: 250
+        m_nodeType: 1
+        localizationKey: James_dialog_01_02
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495693609926877
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 442fb3c8-7ada-422c-a50f-557317b6e919
+        m_position:
+          serializedVersion: 2
+          x: 4784
+          y: 299
+          width: 266
+          height: 250
+        m_nodeType: 1
+        localizationKey: James_dialog_01_03
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495917080084672
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 6707c08c-bc76-41f2-a0dc-2c6452fe2961
+        m_position:
+          serializedVersion: 2
+          x: 5120
+          y: 2
+          width: 271
+          height: 250
+        m_nodeType: 1
+        localizationKey: James_dialog_01_04
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495917080084673
+      type: {class: DGChoiceNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 4981f338-fb35-46c2-8335-820509507c93
+        m_position:
+          serializedVersion: 2
+          x: 5501
+          y: 2
+          width: 373
+          height: 172
+        m_nodeType: 2
+        m_choices:
+        - Emili_choices_02_01
+        - Emili_choices_02_02
+        - Emili_choices_02_03
+    - rid: 1897495917080084674
+      type: {class: DGConditionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: c932c37f-05da-486e-9ba8-f3c2fe90a25a
+        m_position:
+          serializedVersion: 2
+          x: 6064
+          y: -252
+          width: 285
+          height: 321
+        m_nodeType: 3
+        m_conditions:
+        - m_variableID: b35f3bb8-75a2-42f1-ab85-96c8228a8061
+          m_variableName: stressLevel
+          m_variableType: Single
+          m_actionName: Less
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0.5
+            boolValue: 0
+            objectValue: {fileID: 0}
+            type: 3
+        logicalOperator: and
+    - rid: 1897495917080084675
+      type: {class: DGConditionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 45f3781b-bf9b-4b9a-8ba1-d618e39d1b07
+        m_position:
+          serializedVersion: 2
+          x: 6064
+          y: 125
+          width: 285
+          height: 321
+        m_nodeType: 3
+        m_conditions:
+        - m_variableID: 550903a4-147b-43f0-9eb3-5837266d5ae3
+          m_variableName: isBusy
+          m_variableType: Boolean
+          m_actionName: Equals
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0
+            boolValue: 1
+            objectValue: {fileID: 0}
+            type: 4
+        logicalOperator: and
+    - rid: 1897495917080084676
+      type: {class: DGConditionNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 764f1453-c3ea-4e47-814f-bbaa849cdeb8
+        m_position:
+          serializedVersion: 2
+          x: 6064
+          y: 641
+          width: 285
+          height: 210
+        m_nodeType: 3
+        m_conditions:
+        - m_variableID: 5243ef9a-357c-4bb9-8ab9-a410f162e0d6
+          m_variableName: wantsCoffee
+          m_variableType: Boolean
+          m_actionName: Equals
+          m_value:
+          - stringValue: 
+            intValue: 0
+            floatValue: 0
+            boolValue: 0
+            objectValue: {fileID: 0}
+            type: 4
+        logicalOperator: and
+    - rid: 1897495917080084677
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 8f265b33-e119-49e4-9b88-5a4f1148f880
+        m_position:
+          serializedVersion: 2
+          x: 6405
+          y: -431
+          width: 267
+          height: 250
+        m_nodeType: 1
+        localizationKey: James_answer_02_01_positive
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495917080084678
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: acfb8bb4-8bb2-40fa-8abb-043cc01837e4
+        m_position:
+          serializedVersion: 2
+          x: 6405
+          y: -181
+          width: 267
+          height: 250
+        m_nodeType: 1
+        localizationKey: James_answer_02_01_negative
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495917080084679
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 015f965c-f60a-47aa-85d8-95b90ae7e1de
+        m_position:
+          serializedVersion: 2
+          x: 6405
+          y: 126
+          width: 221
+          height: 247
+        m_nodeType: 1
+        localizationKey: James_answer_02_02_positive
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495917080084680
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 11dd2efd-b465-4b26-971a-d3c23a9a96c3
+        m_position:
+          serializedVersion: 2
+          x: 6405
+          y: 373
+          width: 221
+          height: 247
+        m_nodeType: 1
+        localizationKey: James_answer_02_02_negative
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495917080084681
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: d05ba321-39e2-4bc0-a1c6-d3ece24253df
+        m_position:
+          serializedVersion: 2
+          x: 6405
+          y: 641
+          width: 221
+          height: 247
+        m_nodeType: 1
+        localizationKey: James_answer_02_03_positive
+        interlocutorImage: {fileID: 0}
+    - rid: 1897495917080084682
+      type: {class: DGDialogueNode, ns: DG_with_Localization.Elements, asm: DG_with_Localization}
+      data:
+        m_guid: 14263e10-0273-4558-96ec-2f748dd8fdc7
+        m_position:
+          serializedVersion: 2
+          x: 6405
+          y: 891
+          width: 221
+          height: 247
+        m_nodeType: 1
+        localizationKey: James_answer_02_03_negative
+        interlocutorImage: {fileID: 0}
